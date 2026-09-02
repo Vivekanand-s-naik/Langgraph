@@ -6,4 +6,4 @@ langgraph
 langgraph-checkpoint
 langsmith
 python-dotenv
-tangchain_taivly
+langchain-tavily
